@@ -43,10 +43,10 @@ To install and run the Modulo Server, ensure that you have Rust installed on you
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/modulo-server.git
+git clone https://github.com/yourusername/modulo-src.git
 
 # Navigate into the project directory
-cd modulo-server
+cd modulo-src
 
 # Build the project
 cargo build --release
